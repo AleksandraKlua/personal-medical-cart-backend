@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sut</groupId>
     <artifactId>personal-medical-cart-backend</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>personal-medical-cart-backend</name>
     <description>A diploma project as backend for the personal medical cart app.</description>
